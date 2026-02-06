@@ -23,14 +23,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnolog
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoxzn&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
+### 📫 Vamos conectar?
 <div align="left">
-  <a href="[TEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luis-brito-ti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/britoxzn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/britoxzn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:luisfcdebrito@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
