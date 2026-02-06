@@ -14,13 +14,4 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-## 📊 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=britoxzn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britoxzn&layout=compact&theme=radical)
 
-## 📫 Contato
-<div inline>
-  <a href="linkedin.com/in/luis-brito-ti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
