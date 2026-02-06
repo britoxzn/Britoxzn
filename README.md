@@ -17,17 +17,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnolog
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=britoxzn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoxzn&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
-
----
-
 
 <div align="left">
-  <a href="(https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
+  <a href="[TEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/britoxzn" target="_blank">
