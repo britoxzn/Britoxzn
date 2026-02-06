@@ -12,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=py,js,html,css,git,postgres" alt="My Skills" />
   </p>
 </div>
-
 <br/>
 
 <div align="left">
@@ -22,7 +21,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoxzn&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
   </a>
 </div>
-
 <br/>
 
 <div align="left">
