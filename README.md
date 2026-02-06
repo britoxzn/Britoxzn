@@ -17,6 +17,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnolog
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+### 📈 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
 
 <div align="left">
   <a href="[TEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
