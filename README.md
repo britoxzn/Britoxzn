@@ -1,13 +1,12 @@
 <div align="center">
   <h1>Olá, eu sou o Luis Brito 👋</h1>
   <p>
-    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no UniCEUB.<br>
-    Focado em transformar problemas reais em soluções com <b>Python, IA e Gamificação</b>.
+    Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia. Atualmente focado em transformar problemas reais em soluções digitais através do código.</b>.
   </p>
 </div>
 
 <div align="center">
-  <h3>🚀 Tecnologias e Ferramentas</h3>
+  <h3> Tecnologias e Ferramentas</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -19,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
+  <h3> Minhas Estatísticas</h3>
   <a href="https://github.com/britoxzn">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britoxzn&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do Luis"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britoxzn&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
@@ -29,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <h3>📫 Vamos conectar?</h3>
+  <h3> Vamos conectar?</h3>
   <a href="https://www.linkedin.com/in/luis-brito-ti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
