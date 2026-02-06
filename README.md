@@ -27,7 +27,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnolog
 
 
 <div align="left">
-  <a href="[TEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/luis-brito-ti/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/britoxzn" target="_blank">
