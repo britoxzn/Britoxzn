@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Olá, eu sou o Luis Brito 👋</h1>
   <p>
-    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e entusiasta de tecnologia. Atualmente focado em transformar problemas reais em soluções digitais através do código.
+    Desenvolvedor <strong>em formação</strong> e entusiasta de tecnologia. Atualmente focado em transformar problemas reais em soluções digitais através do código.
   </p>
 </div>
 <br/>
