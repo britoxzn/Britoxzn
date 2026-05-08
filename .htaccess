@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# URLs amigáveis para SEO Local.
+RewriteRule ^barbeiros/([a-z0-9-]+)/?$ cidades.php?slug=$1 [L,QSA]
+RewriteRule ^agendamento-barbeiro-([a-z0-9-]+)/?$ cidades.php?slug=$1 [L,QSA]
+RewriteRule ^blog/([a-z0-9-]+)/?$ artigo.php?slug=$1 [L,QSA]
